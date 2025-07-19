@@ -1,0 +1,79 @@
+Query,Retrieved Content,Source File,Page Number
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE 
+INDUSTRY 4.0
+Industrial Internet of Things (IIoT)
+➢ IIoT can be described as an interconnection of a large number 
+of industrial processes and systems, which communicate and 
+coordinate among themselves.
+➢ The real time data collected from sensor nodes are stored, 
+processed, and analysed to improve the performance and 
+efficiency of the overall system. 
+➢ As shown in the figure, the sensor nodes deployed at various 
+industrial locations sense and transmit data to the server. The 
+real time processing and complex analysis of the data help to 
+optimize various industrial processes such as predictive 
+maintenance of machines, inventory management and 
+packaging of finished products.",mech-slides.pdf,Page 618
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE 
+INDUSTRY 4.0
+Applications of Industrial Internet of Things (IIoT)
+1) Smart healthcare – Sensor nodes sense and transmit the 
+physiological data of the patient to the local processing unit. 
+Further, the LPU transmits the data to the local server. Medical 
+experts can remotely observe the health conditions of the patient.
+2) Smart supply chain -  Proper maintenance of the raw materials, 
+available inventory stock, details of each steps involved in the 
+production process, proper flow of information among various 
+stages , maintaining the time window for delivery of goods, and 
+returning the faulty goods. 
+3) Smart transportation – The sensor nodes placed on the vehicles 
+and road side units (RSU) sense and transmit data to the local 
+server. Various real time info such as safe speed, safe distance 
+with the neighboring vehicles, and weather conditions are 
+conveyed to the drivers.",mech-slides.pdf,Page 619
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE 
+INDUSTRY 4.0
+Applications of Industrial Internet of Things (IIoT)
+4) Smart manufacturing system – These improve the efficiency of 
+production and product quality, reduce the per unit cost of production 
+and enhance the life time of machines and developed products.
+e.g., Automatic packaging of a production in a manufacturing plant 
+with minimum human intervention. 
+5) AR and VR applications – Augmented reality and virtual reality 
+have widespread applications in the optimization stages of 
+manufacturing industries, inventory management in warehouses, 
+training of personnel in military, healthcare, and assembly line 
+operations.",mech-slides.pdf,Page 620
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE 
+➢ Industry 4.0 has been defined as “a name for the current trend of automation and data exchange in 
+manufacturing technologies, including cyber-physical systems, the Internet of things, cloud computing 
+and cognitive computing and creating the smart factory”.
+INDUSTRY 4.0",mech-slides.pdf,Page 616
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE
+Machining and Robotics 
+Programmable automation:
+Some of the features that characterize programmable automation 
+include: 
+• High investment in general-purpose equipment 
+• Low production rates relative to fixed automation 
+• Flexibility to deal with changes in product configuration 
+• Most suitable for batch production",mech-slides.pdf,Page 601
+List all the points on Industrial Internet of Things or IIOT,"human tissue and food, smart manufacturing). They are also the subject of 
+intensive research and development (methods, materials, new techniques, 
+application areas, etc.).
+INDUSTRY 4.0",mech-slides.pdf,Page 621
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE 
+TYPES OF AUTOMATED MANUFACTURING SYSTEMS
+AUTOMATION",mech-slides.pdf,Page 604
+List all the points on Industrial Internet of Things or IIOT,"MECHANICAL ENGINEERING SCIENCE
+Machining and Robotics 
+Programmable automation:
+• In programmable automation, the production equipment is designed with the capability 
+to change the sequence of operations to accommodate different product configurations
+• New programs can be prepared and entered into the equipment to produce new 
+products
+• Automated production systems that are programmable are used in low and medium- 
+volume production
+• The parts or products are typically made in batches
+• To produce each new batch of a different product, the system must be reprogrammed 
+with the set of machine instructions that correspond to the new product",mech-slides.pdf,Page 600
